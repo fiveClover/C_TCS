@@ -3,5 +3,5 @@ project(C_TCS C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(C_TCS basicIO.h blocks.c)
+add_executable(C_TCS basicIO.h databaseCh5.c)
 
